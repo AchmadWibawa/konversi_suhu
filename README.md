@@ -1,16 +1,13 @@
 # konversi_suhu_flutter
 
-A new Flutter project.
+tugas konversi suhu
 
-## Getting Started
+## Nama
 
-This project is a starting point for a Flutter application.
+Nama: Achmad Wibawa.  
+No: 01.
+NIM: 2041720174.  
+Kelas: TI-3B.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Hasil Run
+| <img src="./ss/1.jpeg" height="400" alt="Screenshot 1"/> <img src="./ss/2.jpeg" height="400" alt="Screenshot 2"/> <img src="./ss/3.jpeg" height="400" alt="Screenshot 3"/> |
